@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "screener": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/screener/items/",
+        "screener": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/screener/items/",
         "cscr0": {
             "@id": "screener:cscr0.jsonld",
             "@type": "@id"

@@ -26,7 +26,7 @@ const datas = {};
  
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
-    console.log('Usage: node ' + process.argv[1] + '/Users/mike.xiao/Downloads/KSADS_DataDictionary_2019-07-25.csv');
+    console.log('Usage: node ' + process.argv[1] + '/Users/mike.xiao/KSADS-mindlogger/KSADS_DataDictionary_nocond.csv');
     process.exit(1);
 }
 // Read the file.
@@ -38,8 +38,7 @@ let order = [];
 let blList = [];
 let slList = [];
 let blObj = [];
-let languages = [];
- 
+let languages = []; 
 let options = {
     delimiter: ',',
     headers: true,
@@ -64,7 +63,7 @@ csv
         Object.keys(datas).forEach(form => {
             let fieldList = datas[form];
             createFormContextSchema(form, fieldList);
-            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/${form}/${form}_context.jsonld`;
+            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/${form}/${form}_context.jsonld`;
             fieldList.forEach( field => {
                 if(languages.length === 0){
                     languages = parseLanguageIsoCodes(field['Field Label']);
@@ -80,7 +79,7 @@ function createFormContextSchema(form, fieldList) {
     // define context file for each form
     let itemOBj = { "@version": 1.1 };
     let formContext = {};
-    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/${form}/items/`;
+    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/${form}/items/`;
     fieldList.forEach( field => {
         let field_name = field['Variable / Field Name'];
         // define item_x urls to be inserted in context for the corresponding form
