@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan060",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Days"

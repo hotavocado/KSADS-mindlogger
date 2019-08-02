@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep007",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did you think might happen?"

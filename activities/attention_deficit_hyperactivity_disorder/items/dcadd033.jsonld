@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd033",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "About how old were you the first time (you had any of these difficulties)?"

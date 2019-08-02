@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu104",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When you used narcotics the most, how much did you use them?"

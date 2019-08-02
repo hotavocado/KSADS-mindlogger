@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep012",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was this because you wanted to stay with your (attachment figure(s))?"

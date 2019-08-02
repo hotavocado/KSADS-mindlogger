@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy92",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 13 (Professional/Treatment)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui082",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Age"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr122",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Caffeine: Age when used the most"

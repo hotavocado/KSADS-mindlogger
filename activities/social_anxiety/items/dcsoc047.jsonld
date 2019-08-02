@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc047",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Were you much more scared of (insert situation) than other kids/teenagers your age?"

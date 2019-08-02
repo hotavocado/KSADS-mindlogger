@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu80a",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What was the longest period of time that you did not have these concerns?"

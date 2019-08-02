@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd116",
     "formName": "major_depression",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the first time you got help?"

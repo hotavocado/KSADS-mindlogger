@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu71",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "b. With which has that happened? Has this happened just once or twice or has it happened more than that? (See below)?"

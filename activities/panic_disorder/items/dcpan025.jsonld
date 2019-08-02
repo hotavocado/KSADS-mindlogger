@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan025",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Please describe the attack that awakened you.  Were you having a bad dream at the time? What woke you up? How were you feeling when you woke up?"

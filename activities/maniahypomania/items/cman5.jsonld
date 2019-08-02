@@ -6,8 +6,7 @@
     "skos:altLabel": "cman5",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How old were you when this ended?"

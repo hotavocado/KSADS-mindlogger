@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd030",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "INTERVIEWER: Rate yes only if it sounds like they forced, manipulated, or threatened someone else into sexual activity."

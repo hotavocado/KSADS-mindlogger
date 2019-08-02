@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu143",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Solvents/Inhalants"

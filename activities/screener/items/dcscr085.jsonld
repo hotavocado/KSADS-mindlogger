@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr085",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did other people, like parents or teachers, notice this change or worry about you? "

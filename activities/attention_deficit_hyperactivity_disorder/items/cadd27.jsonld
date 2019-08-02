@@ -6,8 +6,7 @@
     "skos:altLabel": "cadd27",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "You had several difficulties with restlessness and impatience, such as (key phrases for first 3 items endorsed above). "

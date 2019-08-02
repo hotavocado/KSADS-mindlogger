@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep049",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the first time you got help?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr087",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "If yes, During that time/those times, how often did you feel that way?  "

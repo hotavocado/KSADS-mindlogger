@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr23",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no to all, do not complete section; consider other phobias."

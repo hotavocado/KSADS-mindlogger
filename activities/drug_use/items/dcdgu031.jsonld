@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu031",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When you used hallucinogens the most, how often did you use it? \n"

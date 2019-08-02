@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd075d",
     "formName": "major_depression",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Example 4"

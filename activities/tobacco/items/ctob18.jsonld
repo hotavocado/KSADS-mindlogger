@@ -6,8 +6,7 @@
     "skos:altLabel": "ctob18",
     "formName": "tobacco",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What kind of person/people did you get help from?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr070",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "N/A"

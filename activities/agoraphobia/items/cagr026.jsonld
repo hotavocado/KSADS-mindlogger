@@ -6,8 +6,7 @@
     "skos:altLabel": "cagr026",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"

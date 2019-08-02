@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc132",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Medication 3)"

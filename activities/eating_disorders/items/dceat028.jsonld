@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat028",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "At that time, had you lost a lot of weight on purpose?"

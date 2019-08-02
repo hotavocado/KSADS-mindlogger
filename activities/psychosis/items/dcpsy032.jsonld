@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy032",
     "formName": "psychosis",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Minutes"

@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu31a",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How old were you when you first used downers regularly, that is at least three times a week?"

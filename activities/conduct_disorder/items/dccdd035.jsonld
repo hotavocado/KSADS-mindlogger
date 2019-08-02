@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd035",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you ever actually been arrested or sent to juvenile court for something you have done?"

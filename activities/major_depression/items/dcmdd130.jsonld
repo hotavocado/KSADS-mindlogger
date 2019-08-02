@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd130",
     "formName": "major_depression",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Medication 3)"

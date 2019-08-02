@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd069",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional(s) (doctors) say was the problem that you had  (diagnoses given)? List:"

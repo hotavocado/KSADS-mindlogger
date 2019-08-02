@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd035",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Probe: like for most of a school year? "

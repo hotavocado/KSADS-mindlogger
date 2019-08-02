@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr009",
     "formName": "screener",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "About how many talk sessions did you have in total?"

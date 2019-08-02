@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc091",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Liver disease or jaundice (where your skin turned yellow)?"

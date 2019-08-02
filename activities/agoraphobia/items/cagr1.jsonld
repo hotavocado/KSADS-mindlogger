@@ -6,8 +6,7 @@
     "skos:altLabel": "cagr1",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER:If no to all,  END Agoraphobia section."

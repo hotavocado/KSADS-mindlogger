@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui067",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Required medical assessment?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd018",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did having to think about [insert obsesssion here] seem silly? Did it make sense to you? Did you think you were thinking about [insert obsesssion here] too much?"

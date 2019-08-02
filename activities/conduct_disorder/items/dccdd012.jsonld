@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd012",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many times did you skip school?"

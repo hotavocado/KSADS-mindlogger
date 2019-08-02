@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd31",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: Ask to 12 years and older only. SKIP to Bereavement"

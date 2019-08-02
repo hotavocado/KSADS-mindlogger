@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr007",
     "formName": "screener",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "INTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments."

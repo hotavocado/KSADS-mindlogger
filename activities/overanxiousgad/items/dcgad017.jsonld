@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad017",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other)"

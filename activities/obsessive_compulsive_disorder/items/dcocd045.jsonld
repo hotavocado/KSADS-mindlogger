@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd045",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: Does participant meet criteria for compulsions? "

@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu85",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"

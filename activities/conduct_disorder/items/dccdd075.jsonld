@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd075",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Medication 1)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc122",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to an office to see someone or participating in group treatment not in a hospital)"

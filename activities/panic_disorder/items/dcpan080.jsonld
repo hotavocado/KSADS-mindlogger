@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan080",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In-patient (Staying in a hospital)"

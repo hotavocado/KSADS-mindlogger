@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy83",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What was the longest period of time that (behavior/feeling) did not bother you?"

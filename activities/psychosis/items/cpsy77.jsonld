@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy77",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Duration of current episode: How long have you been feeling this way?"

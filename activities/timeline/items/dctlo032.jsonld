@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo032",
     "formName": "timeline",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Arithmetic/Math"

@@ -6,8 +6,7 @@
     "skos:altLabel": "ctob19",
     "formName": "tobacco",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

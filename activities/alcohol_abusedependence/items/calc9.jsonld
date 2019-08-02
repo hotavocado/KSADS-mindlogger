@@ -6,8 +6,7 @@
     "skos:altLabel": "calc9",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no current use, SKIP to Past Quantity."

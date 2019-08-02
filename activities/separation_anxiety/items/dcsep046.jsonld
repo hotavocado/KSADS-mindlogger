@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep046",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "N/A"

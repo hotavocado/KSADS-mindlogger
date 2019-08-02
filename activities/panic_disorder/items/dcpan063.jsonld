@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan063",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "From your first to last panic attack (between ages) what was the pattern of your attacks, would you say:"

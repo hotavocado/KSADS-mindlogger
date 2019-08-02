@@ -6,8 +6,7 @@
     "skos:altLabel": "cocd23",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"

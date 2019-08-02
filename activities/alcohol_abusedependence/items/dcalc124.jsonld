@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc124",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other"

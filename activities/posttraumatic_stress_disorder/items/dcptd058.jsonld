@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd058",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 1)"

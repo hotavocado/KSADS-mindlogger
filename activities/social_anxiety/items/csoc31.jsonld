@@ -6,8 +6,7 @@
     "skos:altLabel": "csoc31",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "ONSET"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr058",
     "formName": "screener",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Please explain:"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu064",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When you were doing cocaine the most, how were you using it?"

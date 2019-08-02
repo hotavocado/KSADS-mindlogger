@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu059",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When using stimulants, did you ever do violent things that were out of character for you?"

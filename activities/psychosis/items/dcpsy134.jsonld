@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy134",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Were you \"high\" at the time?"

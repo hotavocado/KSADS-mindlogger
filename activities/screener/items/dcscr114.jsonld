@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr114",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you ever been attacked sexually or raped?"

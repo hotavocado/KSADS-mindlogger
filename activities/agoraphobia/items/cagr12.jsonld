@@ -6,8 +6,7 @@
     "skos:altLabel": "cagr12",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How many days of school did you miss? (lifetime)"

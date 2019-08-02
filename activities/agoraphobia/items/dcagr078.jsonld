@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr078",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In-patient (Staying in a hospital)"

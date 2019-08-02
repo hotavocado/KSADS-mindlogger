@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu058",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When using stimulants did your mind ever play tricks on you so you started to interpret ordinary things are having special meaning, or did you get suspicious or 'paranoid,' or have visions, hear voices, or have funny sensations?"

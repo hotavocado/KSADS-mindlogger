@@ -6,8 +6,7 @@
     "skos:altLabel": "ctlo0a",
     "formName": "timeline",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "\nINTERVIEWER: This section should not be completed if child is out of high school."

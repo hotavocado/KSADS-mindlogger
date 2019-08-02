@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan16",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If only one attack, SKIP to Help-Seeking Treatment."

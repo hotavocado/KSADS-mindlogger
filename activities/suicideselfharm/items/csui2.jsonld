@@ -6,8 +6,7 @@
     "skos:altLabel": "csui2",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If current, report to clinician."

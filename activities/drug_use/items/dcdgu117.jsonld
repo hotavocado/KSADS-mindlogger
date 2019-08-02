@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu117",
     "formName": "drug_use",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Are you in a methadone program? For how many months all together have you been taking legally prescribed methadone in a methadone program?"

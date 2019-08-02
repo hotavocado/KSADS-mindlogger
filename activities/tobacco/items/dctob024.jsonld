@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob024",
     "formName": "tobacco",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Most N of cigars/pipes ever smoked"

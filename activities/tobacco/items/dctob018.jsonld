@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob018",
     "formName": "tobacco",
     "ui": {
-        "inputType": "checkbox",
-        "hidden": true
+        "inputType": "checkbox"
     },
     "question": {
         "en": "What is the reason that you never smoked or used tobacco regularly? (Check all that apply)"

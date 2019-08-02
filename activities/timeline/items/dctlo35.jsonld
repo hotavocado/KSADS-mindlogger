@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo35",
     "formName": "timeline",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Other subject 2"

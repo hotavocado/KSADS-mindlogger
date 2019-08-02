@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr52",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no to Use, ask Tobacco questions in section below."

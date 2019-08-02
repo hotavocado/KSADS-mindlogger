@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat078",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to an office to see someone or participating in a group not in a hospital)"

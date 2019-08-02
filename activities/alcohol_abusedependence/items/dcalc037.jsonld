@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc037",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many times?"

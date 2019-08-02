@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc053",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How much did having this fear upset or bother you?"

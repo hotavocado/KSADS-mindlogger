@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan083",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other)"

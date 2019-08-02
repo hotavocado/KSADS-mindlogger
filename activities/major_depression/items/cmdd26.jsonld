@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd26",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "For how long did you have them?  "

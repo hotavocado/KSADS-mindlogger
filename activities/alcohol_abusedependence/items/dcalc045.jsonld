@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc045",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you actually get hurt in any of these situations?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd066",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How often did you think about these things during this time?"

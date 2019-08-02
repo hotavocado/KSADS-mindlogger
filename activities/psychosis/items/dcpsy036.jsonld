@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy036",
     "formName": "psychosis",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Description:"

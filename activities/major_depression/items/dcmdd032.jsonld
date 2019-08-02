@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd032",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Late night?"

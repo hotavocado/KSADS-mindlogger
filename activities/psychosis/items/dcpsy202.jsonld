@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy202",
     "formName": "psychosis",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Onset of most severe episode: How old were you then?"

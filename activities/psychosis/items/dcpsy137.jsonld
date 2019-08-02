@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy137",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did people have trouble understanding you when you weren't \"high\"?"

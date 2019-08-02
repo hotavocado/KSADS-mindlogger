@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy136",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Had you taken pills?"

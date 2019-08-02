@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep043",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 2)"

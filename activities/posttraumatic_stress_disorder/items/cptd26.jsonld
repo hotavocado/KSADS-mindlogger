@@ -6,8 +6,7 @@
     "skos:altLabel": "cptd26",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

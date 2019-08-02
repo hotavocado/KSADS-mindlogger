@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy222",
     "formName": "psychosis",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Professional/Treatment)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc085",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional(s) (doctors) say that you had \n(diagnoses given)? List:"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd045",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Years"

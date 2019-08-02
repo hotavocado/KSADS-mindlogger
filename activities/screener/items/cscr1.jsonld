@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr1",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no, SKIP to Help Suggested."

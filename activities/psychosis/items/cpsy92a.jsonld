@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy92a",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

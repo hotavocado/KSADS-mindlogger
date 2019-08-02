@@ -6,8 +6,7 @@
     "skos:altLabel": "calc29a",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What kind of person/people did you get help from?"

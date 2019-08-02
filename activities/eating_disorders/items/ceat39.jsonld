@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat39",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What kind of treatment(s) have you gotten...(Code all that apply)?"

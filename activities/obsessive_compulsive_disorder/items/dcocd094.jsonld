@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd094",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Because of the number of toys/stuff you collect or save, how difficult is it for you to use ('play in' if < 12 years of age) your room, playroom, closet, or other room in your home?"

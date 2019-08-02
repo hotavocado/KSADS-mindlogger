@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu32",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If past use but no current use:"

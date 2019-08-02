@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr089",
     "formName": "screener",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many times a year?"

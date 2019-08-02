@@ -6,8 +6,7 @@
     "skos:altLabel": "cocd6",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no to BOTH Obsessions and Compulsions, END Obsession-Compulsion section."

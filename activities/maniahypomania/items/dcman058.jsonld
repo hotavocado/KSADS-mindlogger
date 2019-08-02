@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman058",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Describe"

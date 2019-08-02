@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy228",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to see someone in an office)"

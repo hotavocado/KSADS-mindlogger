@@ -6,8 +6,7 @@
     "skos:altLabel": "dcino021",
     "formName": "interviewer_observation",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify"

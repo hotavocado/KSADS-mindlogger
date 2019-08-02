@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman091",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you start thinking these things before, after, or at the same time that you started feeling (too active /happy /excited/grouchy /energetic)? "

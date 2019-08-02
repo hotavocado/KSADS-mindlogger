@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat042",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you begun to have menstrual periods?"

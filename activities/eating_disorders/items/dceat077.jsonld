@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat077",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional(s) (doctors) say was the problem that you had  (diagnoses given)? List:"

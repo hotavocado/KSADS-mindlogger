@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd098",
     "formName": "major_depression",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Month"

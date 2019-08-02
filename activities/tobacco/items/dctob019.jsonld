@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob019",
     "formName": "tobacco",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Other)"

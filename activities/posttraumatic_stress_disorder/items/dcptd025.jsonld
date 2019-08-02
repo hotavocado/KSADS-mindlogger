@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd025",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you ever act out what happened to you?"

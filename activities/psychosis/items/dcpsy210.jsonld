@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy210",
     "formName": "psychosis",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Days"

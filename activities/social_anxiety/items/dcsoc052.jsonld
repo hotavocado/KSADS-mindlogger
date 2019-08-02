@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc052",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you start to get nervous when you knew that you had to face (performance situation)?"

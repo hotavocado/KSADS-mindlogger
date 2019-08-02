@@ -6,8 +6,7 @@
     "skos:altLabel": "csep16",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What kind of treatment(s) have you gotten...(Code all that apply)?"

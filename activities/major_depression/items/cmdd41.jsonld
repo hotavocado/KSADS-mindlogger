@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd41",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"

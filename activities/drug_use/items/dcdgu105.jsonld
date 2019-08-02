@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu105",
     "formName": "drug_use",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "PROBE: IV/Injection Use"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc032",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you continue to drink even though you knew it caused you any of these problems?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dccaf006",
     "formName": "caffeine",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many 12oz. cups of caffeinated soda do you usually consume per day?  (On the days you drink coffee)"

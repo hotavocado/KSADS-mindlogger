@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd070",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Like going to see someone in an office or participating in a group not in a hospital)"

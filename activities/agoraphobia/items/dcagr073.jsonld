@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr073",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the first time you got help?"

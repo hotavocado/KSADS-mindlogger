@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr136",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Sedatives: Age when used the most"

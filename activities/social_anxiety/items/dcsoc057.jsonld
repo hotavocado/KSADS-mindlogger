@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc057",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you ever miss a game or performance (like a play or recital) because of your fear?"

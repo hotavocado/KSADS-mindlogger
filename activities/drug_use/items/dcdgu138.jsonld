@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu138",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Cocaine"

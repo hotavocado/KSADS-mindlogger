@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr089",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 4)"

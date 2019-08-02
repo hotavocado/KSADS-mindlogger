@@ -6,8 +6,7 @@
     "skos:altLabel": "cman54",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no, END  Mania/Hypomania section."

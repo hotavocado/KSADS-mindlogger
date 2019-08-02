@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho096",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to see someone in an office)"

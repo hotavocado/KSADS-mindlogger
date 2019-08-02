@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob059",
     "formName": "tobacco",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you ever have three (or more) (list symptoms) problems all in the same year?"

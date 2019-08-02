@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd010",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Contamination/germs/illness?"

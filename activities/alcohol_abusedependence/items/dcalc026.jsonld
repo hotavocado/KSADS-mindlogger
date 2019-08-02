@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc026",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How many times have you been drunk?"

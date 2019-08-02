@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr132",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Stimulants: Age when used the most"

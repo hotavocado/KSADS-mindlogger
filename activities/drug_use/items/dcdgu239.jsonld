@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu239",
     "formName": "drug_use",
     "ui": {
-        "inputType": "checkbox",
-        "hidden": true
+        "inputType": "checkbox"
     },
     "question": {
         "en": "Narcotic symptoms"

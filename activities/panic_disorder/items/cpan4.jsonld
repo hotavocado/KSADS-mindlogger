@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan4",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": " Probe: was it more than one month?"

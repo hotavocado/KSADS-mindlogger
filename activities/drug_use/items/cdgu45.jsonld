@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu45",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no to all Abuse questions and never used any substance more than once a week, END Drug section."

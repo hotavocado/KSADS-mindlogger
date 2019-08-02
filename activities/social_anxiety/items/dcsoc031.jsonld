@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc031",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you ever avoid going to social events like birthday parties or other social activities because of your fear?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcodd042",
     "formName": "oppositional_defiant_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "N/A"

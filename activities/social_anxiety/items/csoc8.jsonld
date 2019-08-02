@@ -6,8 +6,7 @@
     "skos:altLabel": "csoc8",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "You said that you were very afraid or uncomfortable about (list social situations).  Which one of these things upsets you the most?"

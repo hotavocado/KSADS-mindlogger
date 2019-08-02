@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho078",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Months"

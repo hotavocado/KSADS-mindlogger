@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc011",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In the past 12 months, how often did you usually drink?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan081",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Going to the Emergency Room"

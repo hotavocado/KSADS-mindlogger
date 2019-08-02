@@ -6,8 +6,7 @@
     "skos:altLabel": "cman4",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How long did you feel this way?"

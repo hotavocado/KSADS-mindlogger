@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo041",
     "formName": "timeline",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How much time do you spend playing video/computer games every week? After school? After dinner? On Saturday or Sunday?"

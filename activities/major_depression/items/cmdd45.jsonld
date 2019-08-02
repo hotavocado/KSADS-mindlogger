@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd45",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: Record age of onset and offset of the first episode, the worst episode, and most recent episode on the timeline."

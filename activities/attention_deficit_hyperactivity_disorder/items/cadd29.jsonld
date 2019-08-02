@@ -6,8 +6,7 @@
     "skos:altLabel": "cadd29",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If no, how old were you the last time you had a period of six months or longer when you had a lot of difficulty with restlessness and impatience?"

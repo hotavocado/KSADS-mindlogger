@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu079",
     "formName": "drug_use",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Describe"

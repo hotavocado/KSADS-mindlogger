@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui033",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Required psychiatric admission?"

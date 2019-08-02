@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd069",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 3)"

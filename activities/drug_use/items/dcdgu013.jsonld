@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu013",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When you used marijuana or hashish regularly (or the most) did you ever act silly, wild or reckless?"

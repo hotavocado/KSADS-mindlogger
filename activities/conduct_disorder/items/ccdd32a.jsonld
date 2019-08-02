@@ -6,8 +6,7 @@
     "skos:altLabel": "ccdd32a",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 13 (Professional/Treatment)"

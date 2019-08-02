@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd012",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Probe: Was it before you were seven?  Did you have these problems in kindergarten or first grade? "

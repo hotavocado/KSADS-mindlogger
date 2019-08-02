@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat29",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How old were you the first time you had these concerns about your weight?"

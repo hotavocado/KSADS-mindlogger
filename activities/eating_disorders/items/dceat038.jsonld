@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat038",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "At that time did you still feel fat or did you see yourself as too fat in some ways?"

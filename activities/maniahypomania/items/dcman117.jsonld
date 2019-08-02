@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman117",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many days of school did you miss? (episode)"

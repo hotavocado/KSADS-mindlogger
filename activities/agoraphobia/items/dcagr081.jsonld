@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr081",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Medications *Refer to Medication Card"

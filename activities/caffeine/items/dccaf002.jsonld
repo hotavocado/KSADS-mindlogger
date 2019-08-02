@@ -6,8 +6,7 @@
     "skos:altLabel": "dccaf002",
     "formName": "caffeine",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many 8oz. cups of coffee do you usually consume per day?  (On the days you drink coffee)"

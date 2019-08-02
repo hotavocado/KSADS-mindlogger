@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui053",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: How serious was the attempt? "

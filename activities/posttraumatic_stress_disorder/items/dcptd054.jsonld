@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd054",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "If yes, how  many days of school did you miss? (lifetime)"

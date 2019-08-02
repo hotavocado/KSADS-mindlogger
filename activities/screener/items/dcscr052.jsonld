@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr052",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you been afraid about (insert situation) because you were worried about having a scary/strange feeling in your body or other body problem(s)?"

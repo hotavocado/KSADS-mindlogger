@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad022",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When these worries were the worst, how often did you have them?"

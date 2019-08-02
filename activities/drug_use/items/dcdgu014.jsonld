@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu014",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When using marijuana or hashish, did your mind ever play tricks on you so you started to interpret ordinary things as having special meaning? Did you get suspicious or \"paranoid,\" have visions, hear voices, or have funny sensations?"

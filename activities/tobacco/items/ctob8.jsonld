@@ -6,8 +6,7 @@
     "skos:altLabel": "ctob8",
     "formName": "tobacco",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If NO to all, SKIP to Quitting. "

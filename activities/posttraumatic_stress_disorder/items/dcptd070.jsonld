@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd070",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to see someone at an office or participating in a group not in a hospital)"

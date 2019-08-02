@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat009",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Do you currently have times when you do these behaviors?"

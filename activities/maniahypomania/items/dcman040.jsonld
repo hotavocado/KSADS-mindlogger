@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman040",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did they race through your head?"

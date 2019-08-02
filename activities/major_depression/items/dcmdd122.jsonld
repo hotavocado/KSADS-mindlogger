@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd122",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In-patient (Staying in a hospital)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd073",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other)"

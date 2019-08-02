@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman042",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did they make sense to other people?  "

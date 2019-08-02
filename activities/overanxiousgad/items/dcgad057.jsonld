@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad057",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 1)"

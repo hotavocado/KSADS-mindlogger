@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd034",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Do things over and over again at bedtime, like arranging the pillows, sheets etc.?"

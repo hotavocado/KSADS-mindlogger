@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat18",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Age range (N to N)"

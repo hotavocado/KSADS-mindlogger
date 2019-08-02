@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat002",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "During these binges were you afraid you could not stop eating, or that your eating was out of control?  "

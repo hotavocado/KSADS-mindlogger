@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy89",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If yes: How many days of school did you miss because of (insert symptoms)? (lifetime)"

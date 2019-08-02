@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob021",
     "formName": "tobacco",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "What is the most number of cigarettes you ever smoked?"

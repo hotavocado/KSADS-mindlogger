@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd038",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did you imagine might happen if you didn't do (insert compulsion)? "

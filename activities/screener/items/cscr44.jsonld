@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr44",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: Was the reaction grossly out of proportion to the precipitating event?"

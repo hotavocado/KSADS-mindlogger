@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat062",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How  many days of school did you miss? (lifetime)"

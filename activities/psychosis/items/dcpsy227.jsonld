@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy227",
     "formName": "psychosis",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional(s) (doctors) say that you had \n(diagnoses given)? List:"

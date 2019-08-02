@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu088",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "When you used downers the most, how often did you use them?"

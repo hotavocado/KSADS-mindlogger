@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho107",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Medication 4)"

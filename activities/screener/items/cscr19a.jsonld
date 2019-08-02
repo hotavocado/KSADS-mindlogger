@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr19a",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "PANIC DISORDER COURSE"

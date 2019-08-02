@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd066",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the first time you got help?"

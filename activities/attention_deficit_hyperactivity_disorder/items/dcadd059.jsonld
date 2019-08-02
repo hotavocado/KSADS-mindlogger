@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd059",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many days of school did you miss because of your difficulties with attention or overactivity? (lifetime)"

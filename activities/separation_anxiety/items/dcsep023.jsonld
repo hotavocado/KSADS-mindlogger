@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep023",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was there always something to explain these ______, like a cold or flu or swollen tonsils?               "

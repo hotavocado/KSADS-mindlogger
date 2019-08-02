@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd036",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Why were you arrested or sent to juvenile court?  Explain:"

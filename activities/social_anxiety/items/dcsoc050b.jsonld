@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc050b",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Example 2"

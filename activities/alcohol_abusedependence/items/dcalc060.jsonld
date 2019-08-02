@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc060",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Has this happened more than once? "

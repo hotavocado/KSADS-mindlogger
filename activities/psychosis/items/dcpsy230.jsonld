@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy230",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other (Anything else child tells you)"

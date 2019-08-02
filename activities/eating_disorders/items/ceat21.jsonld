@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat21",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "FEAR OF GAINING WEIGHT"

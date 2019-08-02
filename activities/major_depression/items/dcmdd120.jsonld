@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd120",
     "formName": "major_depression",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional say that you had (diagnoses given)? List:"

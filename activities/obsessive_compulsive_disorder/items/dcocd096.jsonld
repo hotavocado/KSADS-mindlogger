@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd096",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How much does yoru family get upset due to your clutter, difficulty throwing things away or problems with keeping things?"

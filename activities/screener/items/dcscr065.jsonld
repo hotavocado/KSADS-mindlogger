@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr065",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did having these thoughts or behaviors bother you a lot?"

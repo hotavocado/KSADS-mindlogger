@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd033",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Dress?"

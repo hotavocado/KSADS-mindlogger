@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd080",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other"

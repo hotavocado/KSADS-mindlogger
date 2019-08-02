@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr2a",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If yes, SKIP to Screening Probes."

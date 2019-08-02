@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob032",
     "formName": "tobacco",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "If yes, How old were you the very first time you smoked tobacco everyday? "

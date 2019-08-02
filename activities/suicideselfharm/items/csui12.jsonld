@@ -6,8 +6,7 @@
     "skos:altLabel": "csui12",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no, END Suicide/Self-Harm section."

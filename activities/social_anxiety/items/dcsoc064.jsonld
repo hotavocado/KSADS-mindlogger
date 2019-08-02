@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc064",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Are you still afraid of (performance situation listed)?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat081",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other)"

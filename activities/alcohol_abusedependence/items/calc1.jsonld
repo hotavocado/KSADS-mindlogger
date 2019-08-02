@@ -6,8 +6,7 @@
     "skos:altLabel": "calc1",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: Ask to 12 and over ONLY."

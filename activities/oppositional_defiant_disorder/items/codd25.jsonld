@@ -6,8 +6,7 @@
     "skos:altLabel": "codd25",
     "formName": "oppositional_defiant_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

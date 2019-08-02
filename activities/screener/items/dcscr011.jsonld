@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr011",
     "formName": "screener",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "When and what happened that lead to you going to the hospital?"

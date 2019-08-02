@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu21",
     "formName": "drug_use",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you when you first tried solvents/inhalents?"

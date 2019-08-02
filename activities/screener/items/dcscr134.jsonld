@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr134",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Cocaine: Age when used the most"

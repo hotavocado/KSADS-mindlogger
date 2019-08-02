@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat052",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Age"

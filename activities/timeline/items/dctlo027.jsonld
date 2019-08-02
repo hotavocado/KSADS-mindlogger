@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo027",
     "formName": "timeline",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Date at beginning of school year (Month)"

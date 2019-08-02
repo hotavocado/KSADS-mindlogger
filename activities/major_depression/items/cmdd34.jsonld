@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd34",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Date of death"

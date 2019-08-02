@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu043",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Has this happened just once or has it happened more than that?"

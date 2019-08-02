@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc017",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was there ever a time when you usually drank more often than (quote current frequency)?  "

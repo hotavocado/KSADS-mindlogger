@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc089",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Ever have to have a drink to keep from having any of these symptoms or to make them go away?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr026",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {},
     "textValidationTypeOrShowSliderNumber": "",

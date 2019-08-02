@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu14",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no, SKIP to Stimulants."

@@ -6,8 +6,7 @@
     "skos:altLabel": "calc2a",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If under 12 years, END Alcohol section."

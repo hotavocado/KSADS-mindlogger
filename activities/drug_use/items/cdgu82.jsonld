@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu82",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 13 (Professional/Treatment)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr017",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Has anyone said that you are a worrier or that you worry too much?"

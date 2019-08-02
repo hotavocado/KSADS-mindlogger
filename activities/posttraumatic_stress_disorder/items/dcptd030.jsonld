@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd030",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did you see?  Explain:"

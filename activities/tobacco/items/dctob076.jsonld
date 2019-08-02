@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob076",
     "formName": "tobacco",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "N/A"

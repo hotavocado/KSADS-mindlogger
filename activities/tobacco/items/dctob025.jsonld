@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob025",
     "formName": "tobacco",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How many times did you ever use chewing tobacco"

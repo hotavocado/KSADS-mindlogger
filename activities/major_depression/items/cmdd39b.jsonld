@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd39b",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

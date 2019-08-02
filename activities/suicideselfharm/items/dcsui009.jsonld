@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui009",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many times have you tried? "

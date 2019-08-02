@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd068",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you try to kill yourself?"

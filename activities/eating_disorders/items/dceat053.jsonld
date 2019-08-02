@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat053",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Do you have these concerns now?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob041",
     "formName": "tobacco",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many times did you try to cut down or quit?"

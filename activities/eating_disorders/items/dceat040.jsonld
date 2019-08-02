@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat040",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "At the time you were losing weight were you a lot more concerned about your weight and/or shape than most people your age?"

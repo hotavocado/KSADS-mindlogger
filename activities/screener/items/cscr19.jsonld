@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr19",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If yes, SKIP to Panic Disorder Course."

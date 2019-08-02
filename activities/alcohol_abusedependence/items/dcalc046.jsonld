@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc046",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Explain"

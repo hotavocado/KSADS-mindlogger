@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy91",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "What kind of person/people did you get help from?"

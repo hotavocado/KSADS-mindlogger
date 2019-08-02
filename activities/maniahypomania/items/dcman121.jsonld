@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman121",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code 1)"

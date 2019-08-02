@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc022",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How much did you usually drink then?  \nCode for highest quantity."

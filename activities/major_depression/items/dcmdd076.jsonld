@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd076",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did these (list endorsed delusions) start before, after or at the same time that you started feeling (sad, grouchy, like nothing was fun)?"

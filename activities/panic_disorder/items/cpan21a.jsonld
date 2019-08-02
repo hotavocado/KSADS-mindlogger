@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan21a",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

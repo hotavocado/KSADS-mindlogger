@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd047",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did anyone notice that you were (list endorsed psychomotor changes)?"

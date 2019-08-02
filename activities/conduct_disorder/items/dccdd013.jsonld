@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd013",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": " How old were you the first time you skipped school? "

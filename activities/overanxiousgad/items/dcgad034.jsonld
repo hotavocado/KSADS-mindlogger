@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad034",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "If yes to symptoms, When these problems were the worst, how often did you have them?"

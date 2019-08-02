@@ -6,8 +6,7 @@
     "skos:altLabel": "ctob10",
     "formName": "tobacco",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "OFFSET"

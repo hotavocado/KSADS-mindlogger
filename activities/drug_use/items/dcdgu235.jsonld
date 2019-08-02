@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu235",
     "formName": "drug_use",
     "ui": {
-        "inputType": "checkbox",
-        "hidden": true
+        "inputType": "checkbox"
     },
     "question": {
         "en": "Cocaine symptoms"

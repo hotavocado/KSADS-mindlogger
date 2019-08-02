@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan3a",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "For how long after an attack would you worry that these feelings (list symptoms) would come back?"

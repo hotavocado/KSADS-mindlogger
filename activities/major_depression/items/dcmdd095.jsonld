@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd095",
     "formName": "major_depression",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Alcohol and/or drug and quantity 3)"

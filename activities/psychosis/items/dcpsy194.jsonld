@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy194",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "If yes to having behaviors NOW: (Current episode most severe) Is this the worst you have felt?"

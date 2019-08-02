@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat049",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did a doctor tell you this?"

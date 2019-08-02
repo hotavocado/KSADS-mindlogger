@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd123",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other"

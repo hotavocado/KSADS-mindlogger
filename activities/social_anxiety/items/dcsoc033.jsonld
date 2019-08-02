@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc033",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was your fear related to being embarrassed by a physical problem like stuttering or acne or eating problems? "

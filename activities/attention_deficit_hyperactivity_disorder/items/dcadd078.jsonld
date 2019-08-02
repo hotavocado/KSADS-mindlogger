@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd078",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In-patient (Staying in a hospital or a residential program)"

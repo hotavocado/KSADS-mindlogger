@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat055",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Since you were (age of onset), was there ever a time when you were not concerned about your weight?"

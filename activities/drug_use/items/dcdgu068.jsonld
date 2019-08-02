@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu068",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How often to you usually use cocaine?"

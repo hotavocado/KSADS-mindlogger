@@ -7,8 +7,7 @@
     "formName": "timeline",
     "preamble": "<div style=\"color: blue;background-color: #ffffdd; \">\nHow are you doing in school? What subjects do you have? What kind of grades do you get?\n\nPlease rate academic subjects on the following scale. List any additional academic subjects and review ratings. </div>",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Reading/English"

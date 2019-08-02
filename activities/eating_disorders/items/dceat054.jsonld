@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat054",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the last time you had these concerns?"

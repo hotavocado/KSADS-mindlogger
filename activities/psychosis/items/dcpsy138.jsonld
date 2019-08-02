@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy138",
     "formName": "psychosis",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "INTERVIEWER: If thought disorder was present, was it associated with any of the following?"

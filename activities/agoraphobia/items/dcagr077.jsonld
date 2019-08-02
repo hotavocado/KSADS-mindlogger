@@ -6,8 +6,7 @@
     "skos:altLabel": "dcagr077",
     "formName": "agoraphobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Out-patient (Going to see someone in an office)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc093",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Cause your feet to tingle/feel numb for many hours?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho012",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other situations involving high places/being high up)"

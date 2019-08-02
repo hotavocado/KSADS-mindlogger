@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd125",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Medications *Refer to Medication Card"

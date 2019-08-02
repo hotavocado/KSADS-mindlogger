@@ -6,8 +6,7 @@
     "skos:altLabel": "dccdd023",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was this only with your brother or sister?"

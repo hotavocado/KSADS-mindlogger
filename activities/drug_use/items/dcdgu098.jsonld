@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu098",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Were you ever taken to the emergency room because you could not be woken up?"

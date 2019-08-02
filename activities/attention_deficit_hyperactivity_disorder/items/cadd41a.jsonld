@@ -6,8 +6,7 @@
     "skos:altLabel": "cadd41a",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 13 (Professional/Treatment)"

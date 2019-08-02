@@ -6,8 +6,7 @@
     "skos:altLabel": "cocd24",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If either HOARDING question in the compulsion general probes or in the list of Compulsions was endorced, complete the followign questions; otherwise END section."

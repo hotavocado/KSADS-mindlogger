@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat036",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: Is participant's lowest weight 85% or lower than normal?  See Height/Weight Chart in Cards. "

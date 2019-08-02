@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan17",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Thinking about all of your panic attacks:"

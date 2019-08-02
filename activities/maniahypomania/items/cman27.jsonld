@@ -6,8 +6,7 @@
     "skos:altLabel": "cman27",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If no, SKIP to Psychosis Episode."

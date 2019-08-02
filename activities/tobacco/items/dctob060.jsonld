@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob060",
     "formName": "tobacco",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you the first time you had three (or more) of these problems in the same year?"

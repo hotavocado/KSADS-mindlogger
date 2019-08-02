@@ -6,8 +6,7 @@
     "skos:altLabel": "ccdd34",
     "formName": "conduct_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If from multiple people:"

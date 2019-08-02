@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan022",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "If more than 10 minutes:"

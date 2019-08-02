@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad071",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other"

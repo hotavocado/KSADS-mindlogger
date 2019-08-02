@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu185",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "c. After the first time you cut back, did you go back to using so much again?"

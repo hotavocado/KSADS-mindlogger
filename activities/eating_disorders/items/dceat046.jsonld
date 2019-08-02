@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat046",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: Did participant miss at least 3 cycles in a row? "

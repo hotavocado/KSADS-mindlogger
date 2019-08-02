@@ -6,8 +6,7 @@
     "skos:altLabel": "cmdd25",
     "formName": "major_depression",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If not really hallucinations, SKIP to Mood Congruency. "

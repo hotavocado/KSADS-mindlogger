@@ -6,8 +6,7 @@
     "skos:altLabel": "csoc32",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How old were you the first time you were afraid of (performance situation)?"

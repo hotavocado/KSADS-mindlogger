@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr120",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Tobacco: Age when used the most"

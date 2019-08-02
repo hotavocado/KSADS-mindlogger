@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob055",
     "formName": "tobacco",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "You reported that (list some dependence symptoms from above).  How old were you the very first time you had these problems?"

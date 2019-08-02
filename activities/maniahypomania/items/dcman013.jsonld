@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman013",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you when you felt this way?"

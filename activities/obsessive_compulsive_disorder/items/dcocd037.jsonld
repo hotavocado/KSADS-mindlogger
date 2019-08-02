@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd037",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify (Other compulsions)"

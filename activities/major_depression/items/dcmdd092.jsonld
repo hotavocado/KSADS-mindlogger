@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd092",
     "formName": "major_depression",
     "ui": {
-        "inputType": "checkbox",
-        "hidden": true
+        "inputType": "checkbox"
     },
     "question": {
         "en": "PROBE: Did you increase how you use alcohol/drugs when you started feeling sad/depressed or were you using drugs/alcohol before you started to feel sad/depressed)? "

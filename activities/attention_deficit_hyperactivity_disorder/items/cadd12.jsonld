@@ -6,8 +6,7 @@
     "skos:altLabel": "cadd12",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "You had several concentration and attention difficulties, such as (key phrases for first 3 items endorsed above). "

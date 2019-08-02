@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd075",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Code)"

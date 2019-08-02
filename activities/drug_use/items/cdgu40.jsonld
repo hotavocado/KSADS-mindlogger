@@ -6,8 +6,7 @@
     "skos:altLabel": "cdgu40",
     "formName": "drug_use",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "With which drug(s) has that happened?  How many times?"

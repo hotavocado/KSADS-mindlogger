@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsep013",
     "formName": "separation_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was this only during the first few days of school?"

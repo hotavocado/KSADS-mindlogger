@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd119",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you get help during the first time we talked about?"

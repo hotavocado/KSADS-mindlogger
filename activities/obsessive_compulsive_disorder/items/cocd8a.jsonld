@@ -6,8 +6,7 @@
     "skos:altLabel": "cocd8a",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "SYMPTOMS-COMPULSIONS"

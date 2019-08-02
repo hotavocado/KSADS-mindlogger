@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho095",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What did the professional(s) (doctors) say that you had \n(diagnoses given)? List:"

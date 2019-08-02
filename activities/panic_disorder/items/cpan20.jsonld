@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan20",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 13 (Professional/Treatment)"

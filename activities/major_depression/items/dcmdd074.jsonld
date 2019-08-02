@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd074",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: Based on clinical judgment, were these \nreal delusions?(Get Examples)"

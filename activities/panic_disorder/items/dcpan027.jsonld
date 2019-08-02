@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpan027",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How often did you stay away from activities that remind you of these feelings?"

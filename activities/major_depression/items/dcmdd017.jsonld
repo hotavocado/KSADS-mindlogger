@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd017",
     "formName": "major_depression",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Was this feeling different from the feeling you get when something really sad happens or when you see a really sad movie?"

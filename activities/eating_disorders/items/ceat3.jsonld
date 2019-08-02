@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat3",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "On average, how often per week or month did you have eating binges?  "

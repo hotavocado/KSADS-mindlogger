@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat043",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Do you have regular periods, meaning every month for at least six months?"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc127",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"

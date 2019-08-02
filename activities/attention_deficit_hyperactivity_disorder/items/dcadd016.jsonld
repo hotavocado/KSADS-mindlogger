@@ -6,8 +6,7 @@
     "skos:altLabel": "dcadd016",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "With other adults?"

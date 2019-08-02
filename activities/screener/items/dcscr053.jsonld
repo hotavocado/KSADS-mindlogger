@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr053",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you been afraid of being in places because you were worried that you might get trapped, couldn't escape, would be embarrassed to escape or couldn't get help?"

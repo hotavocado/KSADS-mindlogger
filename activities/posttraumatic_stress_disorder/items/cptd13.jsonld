@@ -6,8 +6,7 @@
     "skos:altLabel": "cptd13",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: ONLY ask next question to those under 12 and under, or if child is immature for their age. "

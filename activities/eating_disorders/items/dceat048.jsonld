@@ -6,8 +6,7 @@
     "skos:altLabel": "dceat048",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "What was the medical disorder?  Specify:"

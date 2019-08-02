@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo040",
     "formName": "timeline",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "During the school year, how much TV do you usually watch every week? After school? After dinner? On Saturday or Sunday?"

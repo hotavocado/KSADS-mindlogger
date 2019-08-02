@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc037",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "INTERVIEWER: If age unknown, translate from grade in school. "

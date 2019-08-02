@@ -6,8 +6,7 @@
     "skos:altLabel": "cpsy14",
     "formName": "psychosis",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How long did it last (Estimate duration and dates)?"

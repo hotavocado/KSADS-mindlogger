@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc042",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Months"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu108",
     "formName": "drug_use",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you when you first used narcotics?"

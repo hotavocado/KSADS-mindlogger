@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd040",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Recognizes that behavior is excessive / unreasonable - may not be present for children."

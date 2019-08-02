@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy132",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you make sense?"

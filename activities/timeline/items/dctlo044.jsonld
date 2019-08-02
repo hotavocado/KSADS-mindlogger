@@ -6,8 +6,7 @@
     "skos:altLabel": "dctlo044",
     "formName": "timeline",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "At school?"

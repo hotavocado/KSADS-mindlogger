@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr27",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If any probes are endorsed, complete entire eating section."

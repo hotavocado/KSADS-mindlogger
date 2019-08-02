@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu123",
     "formName": "drug_use",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you continue to use drugs even though you knew it caused you any of these problems?"

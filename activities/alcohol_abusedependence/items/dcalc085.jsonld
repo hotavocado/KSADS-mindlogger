@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc085",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have the shakes (hands or trembling)?"

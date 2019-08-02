@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob086",
     "formName": "tobacco",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Medications *Refer to Medication Card"

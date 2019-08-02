@@ -6,8 +6,7 @@
     "skos:altLabel": "dcptd026",
     "formName": "posttraumatic_stress_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Do you sometimes feel like the event is happening all over again?"

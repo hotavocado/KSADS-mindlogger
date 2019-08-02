@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan1",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If not to all, END Panic Disorder section."

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcmdd014",
     "formName": "major_depression",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Months"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpho097",
     "formName": "specific_phobia",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "In-patient (Staying in a hospital)"

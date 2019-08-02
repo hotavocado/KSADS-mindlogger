@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat23a",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER: IS PARTICIPANT FEMALE? "

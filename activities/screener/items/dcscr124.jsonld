@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr124",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Alcohol: Age when used the most"

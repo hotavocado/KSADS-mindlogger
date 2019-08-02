@@ -6,8 +6,7 @@
     "skos:altLabel": "ctob5",
     "formName": "tobacco",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "If yes, For how long did you smoke daily or almost daily?"

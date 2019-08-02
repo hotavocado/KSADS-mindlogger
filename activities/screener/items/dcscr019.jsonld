@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr019",
     "formName": "screener",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Why did he/she say that you were a worrier?"

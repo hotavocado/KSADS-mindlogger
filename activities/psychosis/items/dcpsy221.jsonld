@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy221",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "N/A"

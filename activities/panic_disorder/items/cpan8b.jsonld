@@ -6,8 +6,7 @@
     "skos:altLabel": "cpan8b",
     "formName": "panic_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": " INTERVIEWER: If under 12 years old, SKIP to Distress."

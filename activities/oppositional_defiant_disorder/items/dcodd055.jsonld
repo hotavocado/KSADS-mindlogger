@@ -6,8 +6,7 @@
     "skos:altLabel": "dcodd055",
     "formName": "oppositional_defiant_disorder",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Medication 1)"

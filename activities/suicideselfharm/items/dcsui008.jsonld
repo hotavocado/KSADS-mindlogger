@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui008",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Have you ever tried to kill yourself or done anything that could have killed you? "

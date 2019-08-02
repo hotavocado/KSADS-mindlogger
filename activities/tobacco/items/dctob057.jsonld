@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob057",
     "formName": "tobacco",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "Month"

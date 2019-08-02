@@ -6,8 +6,7 @@
     "skos:altLabel": "dcman100",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did they stay even when you stopped feeling (too happy/excited/grouchy/energetic)?"

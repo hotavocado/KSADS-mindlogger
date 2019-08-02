@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad045",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many days of school did you miss? (lifetime)"

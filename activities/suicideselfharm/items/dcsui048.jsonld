@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsui048",
     "formName": "suicideselfharm",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Describe (Other)"

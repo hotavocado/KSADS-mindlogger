@@ -6,8 +6,7 @@
     "skos:altLabel": "cadd12a",
     "formName": "attention_deficit_hyperactivity_disorder",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Did you have these difficulties:"

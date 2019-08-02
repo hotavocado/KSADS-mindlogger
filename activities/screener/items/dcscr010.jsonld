@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr010",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "INTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section. "

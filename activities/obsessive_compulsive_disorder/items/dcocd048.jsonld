@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd048",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Specify:"

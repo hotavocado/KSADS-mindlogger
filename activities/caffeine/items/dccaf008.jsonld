@@ -6,8 +6,7 @@
     "skos:altLabel": "dccaf008",
     "formName": "caffeine",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many total days per month do you usually drink (insert name of beverage)?"

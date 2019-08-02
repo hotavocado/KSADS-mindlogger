@@ -6,8 +6,7 @@
     "skos:altLabel": "dcgad067",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "If no, how old were you the last time you got help?"

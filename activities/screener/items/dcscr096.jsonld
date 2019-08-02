@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr096",
     "formName": "screener",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Is this something that is considered unusual for the child? "

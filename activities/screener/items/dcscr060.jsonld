@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr060",
     "formName": "screener",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "N of Days"

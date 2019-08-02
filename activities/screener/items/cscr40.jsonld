@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr40",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If any hallucination questions endorsed, ask next question ONLY to parent."

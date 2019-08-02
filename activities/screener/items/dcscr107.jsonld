@@ -6,8 +6,7 @@
     "skos:altLabel": "dcscr107",
     "formName": "screener",
     "ui": {
-        "inputType": "dropdown",
-        "hidden": true
+        "inputType": "dropdown"
     },
     "question": {
         "en": "How old were you when this happened the most?"

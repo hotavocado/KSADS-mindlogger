@@ -6,8 +6,7 @@
     "skos:altLabel": "cman37",
     "formName": "maniahypomania",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "For how long did you think this was true?"

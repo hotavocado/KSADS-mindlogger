@@ -6,8 +6,7 @@
     "skos:altLabel": "ceat12",
     "formName": "eating_disorders",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "How long did this (name compensatory behavior) period last?"

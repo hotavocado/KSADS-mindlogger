@@ -6,8 +6,7 @@
     "skos:altLabel": "dcdgu002",
     "formName": "drug_use",
     "ui": {
-        "inputType": "notes",
-        "hidden": true
+        "inputType": "notes"
     },
     "question": {
         "en": "Which did you use?"

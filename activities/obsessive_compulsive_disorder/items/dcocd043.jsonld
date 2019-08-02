@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd043",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How much of the time would you do [insert compulsion here]?  Every day? Less? (If less read responses)"

@@ -6,8 +6,7 @@
     "skos:altLabel": "dcpsy193",
     "formName": "psychosis",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Most recent episode most severe: Was that the worst you have felt?"

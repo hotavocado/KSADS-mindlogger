@@ -6,8 +6,7 @@
     "skos:altLabel": "dcalc092",
     "formName": "alcohol_abusedependence",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Stomach disease or make you vomit blood?"

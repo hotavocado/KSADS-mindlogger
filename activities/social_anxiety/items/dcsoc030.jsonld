@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc030",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many days of school did you miss? (lifetime)"

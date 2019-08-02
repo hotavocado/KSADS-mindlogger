@@ -6,8 +6,7 @@
     "skos:altLabel": "cscr47",
     "formName": "screener",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "INTERVIEWER: If yes to either suicide probe, SKIP to suicide section and assess current risk level."

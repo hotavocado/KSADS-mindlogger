@@ -6,8 +6,7 @@
     "skos:altLabel": "dctob026",
     "formName": "tobacco",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Times ever used chewing tobacco"

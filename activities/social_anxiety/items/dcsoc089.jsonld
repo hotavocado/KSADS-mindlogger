@@ -6,8 +6,7 @@
     "skos:altLabel": "dcsoc089",
     "formName": "social_anxiety",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Other"

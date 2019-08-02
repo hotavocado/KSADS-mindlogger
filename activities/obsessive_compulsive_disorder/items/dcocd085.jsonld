@@ -6,8 +6,7 @@
     "skos:altLabel": "dcocd085",
     "formName": "obsessive_compulsive_disorder",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Medications *Refer to Medication Card"

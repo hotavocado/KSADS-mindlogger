@@ -6,8 +6,7 @@
     "skos:altLabel": "cgad19",
     "formName": "overanxiousgad",
     "ui": {
-        "inputType": "descriptive",
-        "hidden": true
+        "inputType": "descriptive"
     },
     "question": {
         "en": "Participant Card 9 (Medications)"
