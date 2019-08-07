@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/timeline/timeline_context.jsonld"
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/timeline/timeline_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "timeline_schema",
     "skos:prefLabel": "timeline_schema",
     "skos:altLabel": "timeline_schema",
@@ -20,19 +20,6 @@
     },
     "ui": {
         "order": [
-            "redcapid",
-            "famid",
-            "indid",
-            "rhinf",
-            "studyid_calc",
-            "dcscr001a",
-            "dcscr002a",
-            "dcscr003a",
-            "dcscr004a",
-            "dcscr004b",
-            "dcscr004c",
-            "entry",
-            "comp_only",
             "dctlo005",
             "dctlo008",
             "dctlo009",
