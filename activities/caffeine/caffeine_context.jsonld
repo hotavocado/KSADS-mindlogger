@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "caffeine": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/caffeine/items/",
+        "caffeine": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/caffeine/items/",
         "ccaf0": {
             "@id": "caffeine:ccaf0.jsonld",
             "@type": "@id"

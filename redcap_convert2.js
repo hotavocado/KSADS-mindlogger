@@ -67,7 +67,7 @@ csv
         Object.keys(datas).forEach(form => {
             let fieldList = datas[form];
             createFormContextSchema(form, fieldList);
-            let formContextUrl = `https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/${form}/${form}_context.jsonld`;
+            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/${form}/${form}_context.jsonld`;
             fieldList.forEach( field => {
                 if(languages.length === 0){
                     languages = parseLanguageIsoCodes(field['Field Label']);
@@ -83,7 +83,7 @@ function createFormContextSchema(form, fieldList) {
     // define context file for each form
     let itemOBj = { "@version": 1.1 };
     let formContext = {};
-    itemOBj[form] = `https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/${form}/items/`;
+    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/${form}/items/`;
     fieldList.forEach( field => {
         let field_name = field['Variable / Field Name'];
         // define item_x urls to be inserted in context for the corresponding form

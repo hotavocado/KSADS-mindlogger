@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/screener_checklist/screener_checklist_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/screener_checklist/screener_checklist_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "screener_checklist_schema",
